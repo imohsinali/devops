@@ -1,0 +1,4 @@
+Instance ID: i-09efd543337324da3
+Public IP: 35.153.55.223
+Key Pair: my-python-key.pem
+Connect: ec2-user@35.153.55.223
